@@ -9,6 +9,7 @@
   "author": "Nicolas Brouillet",
   "license": "ISC",
   "dependencies": {
-    "jquery": "^3.3.1"
+    "jquery": "^3.3.1",
+    "nodegit": "^0.22.2"
   }
 }
